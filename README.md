@@ -1,2 +1,2 @@
 # test-api-rest-assured
-Testando API Rest com REST Assured e JUnit
+Testing Rest API with REST Assured and JUnit
